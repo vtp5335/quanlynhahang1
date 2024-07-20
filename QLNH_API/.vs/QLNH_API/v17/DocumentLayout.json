@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\qlnh_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\qlnh_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|c:\\angular\\quanlynhahang1\\webapis\\qlnh_api\\qlnh_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43C7CF-B367-4B59-993D-65C5D796307A}|QLNH_API\\QLNH_API.csproj|solutionrelative:qlnh_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Startup.cs",
+              "RelativeDocumentMoniker": "QLNH_API\\Startup.cs",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Startup.cs",
+              "RelativeToolTip": "QLNH_API\\Startup.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA1wBIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T10:42:36.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Program.cs",
+              "RelativeDocumentMoniker": "QLNH_API\\Program.cs",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Program.cs",
+              "RelativeToolTip": "QLNH_API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:38:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\appsettings.json",
+              "RelativeDocumentMoniker": "QLNH_API\\appsettings.json",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\appsettings.json",
+              "RelativeToolTip": "QLNH_API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-15T21:35:38.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "QLNH_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "QLNH_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:26:14.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "QLNH_API\\Models\\User.cs",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Models\\User.cs",
+              "RelativeToolTip": "QLNH_API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:20:25.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLNH_API",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\QLNH_API.csproj",
+              "RelativeDocumentMoniker": "QLNH_API\\QLNH_API.csproj",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\QLNH_API.csproj",
+              "RelativeToolTip": "QLNH_API\\QLNH_API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T21:19:10.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "QLNH_API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\angular\\quanlynhahang1\\WebAPIs\\QLNH_API\\QLNH_API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "QLNH_API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:15:34.634Z",
+              "EditorCaption": ""
             }
           ]
         }
